@@ -1354,7 +1354,7 @@
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5F7A6124)
     (attr smd)
-    (fp_text reference KR35 (at 0 -8.255) (layer B.SilkS)
+    (fp_text reference KR35 (at 3.81 -1.905) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value KEYSW (at 0 8.255) (layer F.Fab)
@@ -2850,7 +2850,7 @@
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5F7A6237)
     (attr smd)
-    (fp_text reference KR04 (at 0 -8.255) (layer B.SilkS)
+    (fp_text reference KR04 (at 3.81 -1.905) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value KEYSW (at 0 8.255) (layer F.Fab)
@@ -2918,7 +2918,7 @@
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5F7A623D)
     (attr smd)
-    (fp_text reference KR03 (at 0 -8.255) (layer B.SilkS)
+    (fp_text reference KR03 (at 3.81 -1.905) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value KEYSW (at 0 8.255) (layer F.Fab)
@@ -3389,7 +3389,7 @@
     (at 333.4 145.7075 180)
     (path /5F7A60F8)
     (attr smd)
-    (fp_text reference DR36 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR36 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3422,7 +3422,7 @@
     (at 314.35 141.8975 180)
     (path /5F7A6118)
     (attr smd)
-    (fp_text reference DR35 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR35 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3455,7 +3455,7 @@
     (at 295.3 122.8475 180)
     (path /5F7A611E)
     (attr smd)
-    (fp_text reference DR34 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR34 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3488,7 +3488,7 @@
     (at 276.25 114.275 180)
     (path /5F7A6150)
     (attr smd)
-    (fp_text reference DR33 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR33 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3521,7 +3521,7 @@
     (at 257.2 121.895 180)
     (path /5F7A6156)
     (attr smd)
-    (fp_text reference DR32 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR32 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3554,7 +3554,7 @@
     (at 238.15 126.6575 180)
     (path /5F7A6188)
     (attr smd)
-    (fp_text reference DR31 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR31 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3587,7 +3587,7 @@
     (at 219.1 128.5625 180)
     (path /5F7A618E)
     (attr smd)
-    (fp_text reference DR30 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR30 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3620,7 +3620,7 @@
     (at 333.4 126.6575 180)
     (path /5F7A6104)
     (attr smd)
-    (fp_text reference DR26 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR26 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3653,7 +3653,7 @@
     (at 314.35 122.8475 180)
     (path /5F7A6130)
     (attr smd)
-    (fp_text reference DR25 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR25 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3686,7 +3686,7 @@
     (at 295.3 103.7975 180)
     (path /5F7A6136)
     (attr smd)
-    (fp_text reference DR24 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR24 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3719,7 +3719,7 @@
     (at 276.25 95.225 180)
     (path /5F7A6168)
     (attr smd)
-    (fp_text reference DR23 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR23 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3752,7 +3752,7 @@
     (at 257.2 102.845 180)
     (path /5F7A616E)
     (attr smd)
-    (fp_text reference DR22 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR22 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3785,7 +3785,7 @@
     (at 238.15 107.6075 180)
     (path /5F7A61A0)
     (attr smd)
-    (fp_text reference DR21 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR21 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3818,7 +3818,7 @@
     (at 219.1 109.5125 180)
     (path /5F7A61A6)
     (attr smd)
-    (fp_text reference DR20 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR20 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0.33 1.905) (layer B.SilkS) hide
@@ -3851,7 +3851,7 @@
     (at 333.4 107.6075 180)
     (path /5F7A61C7)
     (attr smd)
-    (fp_text reference DR16 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR16 (at 0 2.38125) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3884,7 +3884,7 @@
     (at 314.35 103.7975 180)
     (path /5F7A61DB)
     (attr smd)
-    (fp_text reference DR15 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR15 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3917,7 +3917,7 @@
     (at 295.3 84.7475 180)
     (path /5F7A61E1)
     (attr smd)
-    (fp_text reference DR14 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR14 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3950,7 +3950,7 @@
     (at 276.25 76.175 180)
     (path /5F7A6213)
     (attr smd)
-    (fp_text reference DR13 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR13 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -3983,7 +3983,7 @@
     (at 257.2 83.795 180)
     (path /5F7A6219)
     (attr smd)
-    (fp_text reference DR12 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR12 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -4016,7 +4016,7 @@
     (at 238.15 88.5575 180)
     (path /5F7A624B)
     (attr smd)
-    (fp_text reference DR11 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR11 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -4049,7 +4049,7 @@
     (at 219.1 90.4625 180)
     (path /5F7A6251)
     (attr smd)
-    (fp_text reference DR10 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR10 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -4082,7 +4082,7 @@
     (at 333.4 88.5575 180)
     (path /5F7A61F3)
     (attr smd)
-    (fp_text reference DR6 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR6 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -4115,7 +4115,7 @@
     (at 314.35 84.7475 180)
     (path /5F7A61F9)
     (attr smd)
-    (fp_text reference DR5 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR5 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -4148,7 +4148,7 @@
     (at 295.3 65.6975 180)
     (path /5F7A622B)
     (attr smd)
-    (fp_text reference DR4 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR4 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -4181,7 +4181,7 @@
     (at 276.25 57.125 180)
     (path /5F7A6231)
     (attr smd)
-    (fp_text reference DR3 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR3 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -4214,7 +4214,7 @@
     (at 257.2 64.745 180)
     (path /5F7A6263)
     (attr smd)
-    (fp_text reference DR2 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR2 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
@@ -4247,7 +4247,7 @@
     (at 238.15 69.5075 180)
     (path /5F7A6269)
     (attr smd)
-    (fp_text reference DR1 (at 0 -1.925) (layer B.SilkS)
+    (fp_text reference DR1 (at 0 1.905) (layer B.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
     )
     (fp_text value D (at 0 1.925) (layer B.SilkS) hide
