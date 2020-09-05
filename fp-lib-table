@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name keyswitches)(type KiCad)(uri /Users/lydiedanet/keyboard/kicad-lib/keyswitches.pretty-master)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri /Users/lydiedanet/keyboard/kicad-lib/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri /Users/lydiedanet/keyboard/kicad-lib/ProMicroKiCad-master/promicro.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri /Users/lydiedanet/keyboard/kicad-lib/Keebio-Parts.pretty-master)(options "")(descr ""))
+  (lib (name mod_conn_av)(type KiCad)(uri /Users/lydiedanet/keyboard/kicad-lib/mod_conn_av/w_conn_av.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri /Users/lydiedanet/keyboard/kicad-lib/Type-C.pretty-master)(options "")(descr ""))
+)
