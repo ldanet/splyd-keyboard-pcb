@@ -299,7 +299,7 @@ U 1 1 5F424B0B
 P 5800 5700
 F 0 "KL56" H 5800 5933 60  0000 C CNN
 F 1 "KEYSW" H 5800 5600 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5800 5700 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5800 5700 60  0001 C CNN
 F 3 "" H 5800 5700 60  0000 C CNN
 	1    5800 5700
 	1    0    0    -1  
@@ -321,7 +321,7 @@ U 1 1 5F424AFF
 P 5800 4900
 F 0 "KL46" H 5800 5133 60  0000 C CNN
 F 1 "KEYSW" H 5800 4800 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5800 4900 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5800 4900 60  0001 C CNN
 F 3 "" H 5800 4900 60  0000 C CNN
 	1    5800 4900
 	1    0    0    -1  
@@ -370,7 +370,7 @@ U 1 1 5F424AE5
 P 5000 5700
 F 0 "KL55" H 5000 5933 60  0000 C CNN
 F 1 "KEYSW" H 5000 5600 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5000 5700 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5000 5700 60  0001 C CNN
 F 3 "" H 5000 5700 60  0000 C CNN
 	1    5000 5700
 	1    0    0    -1  
@@ -381,7 +381,7 @@ U 1 1 5F424ADF
 P 4200 5700
 F 0 "KL54" H 4200 5933 60  0000 C CNN
 F 1 "KEYSW" H 4200 5600 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4200 5700 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 4200 5700 60  0001 C CNN
 F 3 "" H 4200 5700 60  0000 C CNN
 	1    4200 5700
 	1    0    0    -1  
@@ -414,7 +414,7 @@ U 1 1 5F424ACD
 P 5000 4900
 F 0 "KL45" H 5000 5133 60  0000 C CNN
 F 1 "KEYSW" H 5000 4800 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5000 4900 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5000 4900 60  0001 C CNN
 F 3 "" H 5000 4900 60  0000 C CNN
 	1    5000 4900
 	1    0    0    -1  
@@ -425,7 +425,7 @@ U 1 1 5F424AC7
 P 4200 4900
 F 0 "KL44" H 4200 5133 60  0000 C CNN
 F 1 "KEYSW" H 4200 4800 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4200 4900 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 4200 4900 60  0001 C CNN
 F 3 "" H 4200 4900 60  0000 C CNN
 	1    4200 4900
 	1    0    0    -1  
@@ -449,7 +449,7 @@ U 1 1 5F424A95
 P 3400 4900
 F 0 "KL43" H 3400 5133 60  0000 C CNN
 F 1 "KEYSW" H 3400 4800 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 3400 4900 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 3400 4900 60  0001 C CNN
 F 3 "" H 3400 4900 60  0000 C CNN
 	1    3400 4900
 	1    0    0    -1  
@@ -499,7 +499,7 @@ U 1 1 5F40E2E0
 P 5800 4100
 F 0 "KL36" H 5800 4333 60  0000 C CNN
 F 1 "KEYSW" H 5800 4000 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5800 4100 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5800 4100 60  0001 C CNN
 F 3 "" H 5800 4100 60  0000 C CNN
 	1    5800 4100
 	1    0    0    -1  
@@ -521,7 +521,7 @@ U 1 1 5F40E2D4
 P 5800 3300
 F 0 "KL26" H 5800 3533 60  0000 C CNN
 F 1 "KEYSW" H 5800 3200 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5800 3300 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5800 3300 60  0001 C CNN
 F 3 "" H 5800 3300 60  0000 C CNN
 	1    5800 3300
 	1    0    0    -1  
@@ -570,7 +570,7 @@ U 1 1 5F40E2BA
 P 5000 4100
 F 0 "KL35" H 5000 4333 60  0000 C CNN
 F 1 "KEYSW" H 5000 4000 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5000 4100 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5000 4100 60  0001 C CNN
 F 3 "" H 5000 4100 60  0000 C CNN
 	1    5000 4100
 	1    0    0    -1  
@@ -581,7 +581,7 @@ U 1 1 5F40E2B4
 P 4200 4100
 F 0 "KL34" H 4200 4333 60  0000 C CNN
 F 1 "KEYSW" H 4200 4000 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4200 4100 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 4200 4100 60  0001 C CNN
 F 3 "" H 4200 4100 60  0000 C CNN
 	1    4200 4100
 	1    0    0    -1  
@@ -614,7 +614,7 @@ U 1 1 5F40E2A2
 P 5000 3300
 F 0 "KL25" H 5000 3533 60  0000 C CNN
 F 1 "KEYSW" H 5000 3200 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5000 3300 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5000 3300 60  0001 C CNN
 F 3 "" H 5000 3300 60  0000 C CNN
 	1    5000 3300
 	1    0    0    -1  
@@ -625,7 +625,7 @@ U 1 1 5F40E29C
 P 4200 3300
 F 0 "KL24" H 4200 3533 60  0000 C CNN
 F 1 "KEYSW" H 4200 3200 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4200 3300 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 4200 3300 60  0001 C CNN
 F 3 "" H 4200 3300 60  0000 C CNN
 	1    4200 3300
 	1    0    0    -1  
@@ -674,7 +674,7 @@ U 1 1 5F40E282
 P 3400 4100
 F 0 "KL33" H 3400 4333 60  0000 C CNN
 F 1 "KEYSW" H 3400 4000 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 3400 4100 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 3400 4100 60  0001 C CNN
 F 3 "" H 3400 4100 60  0000 C CNN
 	1    3400 4100
 	1    0    0    -1  
@@ -685,7 +685,7 @@ U 1 1 5F40E27C
 P 2600 4100
 F 0 "KL32" H 2600 4333 60  0000 C CNN
 F 1 "KEYSW" H 2600 4000 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 2600 4100 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 2600 4100 60  0001 C CNN
 F 3 "" H 2600 4100 60  0000 C CNN
 	1    2600 4100
 	1    0    0    -1  
@@ -718,7 +718,7 @@ U 1 1 5F40E26A
 P 3400 3300
 F 0 "KL23" H 3400 3533 60  0000 C CNN
 F 1 "KEYSW" H 3400 3200 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 3400 3300 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 3400 3300 60  0001 C CNN
 F 3 "" H 3400 3300 60  0000 C CNN
 	1    3400 3300
 	1    0    0    -1  
@@ -729,7 +729,7 @@ U 1 1 5F40E264
 P 2600 3300
 F 0 "KL22" H 2600 3533 60  0000 C CNN
 F 1 "KEYSW" H 2600 3200 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 2600 3300 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 2600 3300 60  0001 C CNN
 F 3 "" H 2600 3300 60  0000 C CNN
 	1    2600 3300
 	1    0    0    -1  
@@ -778,7 +778,7 @@ U 1 1 5F40E24A
 P 1800 4100
 F 0 "KL31" H 1800 4333 60  0000 C CNN
 F 1 "KEYSW" H 1800 4000 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1800 4100 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1800 4100 60  0001 C CNN
 F 3 "" H 1800 4100 60  0000 C CNN
 	1    1800 4100
 	1    0    0    -1  
@@ -789,7 +789,7 @@ U 1 1 5F40E244
 P 1000 4100
 F 0 "KL30" H 1000 4333 60  0000 C CNN
 F 1 "KEYSW" H 1000 4000 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1000 4100 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1000 4100 60  0001 C CNN
 F 3 "" H 1000 4100 60  0000 C CNN
 	1    1000 4100
 	1    0    0    -1  
@@ -822,7 +822,7 @@ U 1 1 5F40E232
 P 1800 3300
 F 0 "KL21" H 1800 3533 60  0000 C CNN
 F 1 "KEYSW" H 1800 3200 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1800 3300 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1800 3300 60  0001 C CNN
 F 3 "" H 1800 3300 60  0000 C CNN
 	1    1800 3300
 	1    0    0    -1  
@@ -833,7 +833,7 @@ U 1 1 5F40E22C
 P 1000 3300
 F 0 "KL20" H 1000 3533 60  0000 C CNN
 F 1 "KEYSW" H 1000 3200 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1000 3300 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1000 3300 60  0001 C CNN
 F 3 "" H 1000 3300 60  0000 C CNN
 	1    1000 3300
 	1    0    0    -1  
@@ -876,7 +876,7 @@ U 1 1 5F3D9347
 P 5800 2500
 F 0 "KL16" H 5800 2733 60  0000 C CNN
 F 1 "KEYSW" H 5800 2400 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5800 2500 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5800 2500 60  0001 C CNN
 F 3 "" H 5800 2500 60  0000 C CNN
 	1    5800 2500
 	1    0    0    -1  
@@ -925,7 +925,7 @@ U 1 1 5F3D8019
 P 5000 2500
 F 0 "KL15" H 5000 2733 60  0000 C CNN
 F 1 "KEYSW" H 5000 2400 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5000 2500 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5000 2500 60  0001 C CNN
 F 3 "" H 5000 2500 60  0000 C CNN
 	1    5000 2500
 	1    0    0    -1  
@@ -936,7 +936,7 @@ U 1 1 5F3D8013
 P 4200 2500
 F 0 "KL14" H 4200 2733 60  0000 C CNN
 F 1 "KEYSW" H 4200 2400 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4200 2500 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 4200 2500 60  0001 C CNN
 F 3 "" H 4200 2500 60  0000 C CNN
 	1    4200 2500
 	1    0    0    -1  
@@ -969,7 +969,7 @@ U 1 1 5F3D8001
 P 5000 1700
 F 0 "KL05" H 5000 1933 60  0000 C CNN
 F 1 "KEYSW" H 5000 1600 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5000 1700 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5000 1700 60  0001 C CNN
 F 3 "" H 5000 1700 60  0000 C CNN
 	1    5000 1700
 	1    0    0    -1  
@@ -980,7 +980,7 @@ U 1 1 5F3D7FFB
 P 4200 1700
 F 0 "KL04" H 4200 1933 60  0000 C CNN
 F 1 "KEYSW" H 4200 1600 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4200 1700 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 4200 1700 60  0001 C CNN
 F 3 "" H 4200 1700 60  0000 C CNN
 	1    4200 1700
 	1    0    0    -1  
@@ -1029,7 +1029,7 @@ U 1 1 5F3D55CB
 P 3400 2500
 F 0 "KL13" H 3400 2733 60  0000 C CNN
 F 1 "KEYSW" H 3400 2400 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 3400 2500 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 3400 2500 60  0001 C CNN
 F 3 "" H 3400 2500 60  0000 C CNN
 	1    3400 2500
 	1    0    0    -1  
@@ -1040,7 +1040,7 @@ U 1 1 5F3D55C5
 P 2600 2500
 F 0 "KL12" H 2600 2733 60  0000 C CNN
 F 1 "KEYSW" H 2600 2400 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 2600 2500 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 2600 2500 60  0001 C CNN
 F 3 "" H 2600 2500 60  0000 C CNN
 	1    2600 2500
 	1    0    0    -1  
@@ -1073,7 +1073,7 @@ U 1 1 5F3D55B3
 P 3400 1700
 F 0 "KL03" H 3400 1933 60  0000 C CNN
 F 1 "KEYSW" H 3400 1600 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 3400 1700 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 3400 1700 60  0001 C CNN
 F 3 "" H 3400 1700 60  0000 C CNN
 	1    3400 1700
 	1    0    0    -1  
@@ -1084,7 +1084,7 @@ U 1 1 5F3D55AD
 P 2600 1700
 F 0 "KL02" H 2600 1933 60  0000 C CNN
 F 1 "KEYSW" H 2600 1600 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 2600 1700 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 2600 1700 60  0001 C CNN
 F 3 "" H 2600 1700 60  0000 C CNN
 	1    2600 1700
 	1    0    0    -1  
@@ -1133,7 +1133,7 @@ U 1 1 5F3CB4A2
 P 1800 2500
 F 0 "KL11" H 1800 2733 60  0000 C CNN
 F 1 "KEYSW" H 1800 2400 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1800 2500 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1800 2500 60  0001 C CNN
 F 3 "" H 1800 2500 60  0000 C CNN
 	1    1800 2500
 	1    0    0    -1  
@@ -1144,7 +1144,7 @@ U 1 1 5F3CB49C
 P 1000 2500
 F 0 "KL10" H 1000 2733 60  0000 C CNN
 F 1 "KEYSW" H 1000 2400 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1000 2500 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1000 2500 60  0001 C CNN
 F 3 "" H 1000 2500 60  0000 C CNN
 	1    1000 2500
 	1    0    0    -1  
@@ -1177,7 +1177,7 @@ U 1 1 5F3C2C47
 P 1800 1700
 F 0 "KL01" H 1800 1933 60  0000 C CNN
 F 1 "KEYSW" H 1800 1600 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1800 1700 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1800 1700 60  0001 C CNN
 F 3 "" H 1800 1700 60  0000 C CNN
 	1    1800 1700
 	1    0    0    -1  
@@ -1188,7 +1188,7 @@ U 1 1 5F3C187E
 P 1000 1700
 F 0 "KL00" H 1000 1933 60  0000 C CNN
 F 1 "KEYSW" H 1000 1600 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1000 1700 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1000 1700 60  0001 C CNN
 F 3 "" H 1000 1700 60  0000 C CNN
 	1    1000 1700
 	1    0    0    -1  
@@ -1469,7 +1469,7 @@ U 1 1 5F7A60FE
 P 5900 11250
 F 0 "KR36" H 5900 11483 60  0000 C CNN
 F 1 "KEYSW" H 5900 11150 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5900 11250 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5900 11250 60  0001 C CNN
 F 3 "" H 5900 11250 60  0000 C CNN
 	1    5900 11250
 	1    0    0    -1  
@@ -1491,7 +1491,7 @@ U 1 1 5F7A610A
 P 5900 10450
 F 0 "KR26" H 5900 10683 60  0000 C CNN
 F 1 "KEYSW" H 5900 10350 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5900 10450 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5900 10450 60  0001 C CNN
 F 3 "" H 5900 10450 60  0000 C CNN
 	1    5900 10450
 	1    0    0    -1  
@@ -1540,7 +1540,7 @@ U 1 1 5F7A6124
 P 5100 11250
 F 0 "KR35" H 5100 11483 60  0000 C CNN
 F 1 "KEYSW" H 5100 11150 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5100 11250 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5100 11250 60  0001 C CNN
 F 3 "" H 5100 11250 60  0000 C CNN
 	1    5100 11250
 	1    0    0    -1  
@@ -1551,7 +1551,7 @@ U 1 1 5F7A612A
 P 4300 11250
 F 0 "KR34" H 4300 11483 60  0000 C CNN
 F 1 "KEYSW" H 4300 11150 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4300 11250 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 4300 11250 60  0001 C CNN
 F 3 "" H 4300 11250 60  0000 C CNN
 	1    4300 11250
 	1    0    0    -1  
@@ -1584,7 +1584,7 @@ U 1 1 5F7A613C
 P 5100 10450
 F 0 "KR25" H 5100 10683 60  0000 C CNN
 F 1 "KEYSW" H 5100 10350 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5100 10450 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5100 10450 60  0001 C CNN
 F 3 "" H 5100 10450 60  0000 C CNN
 	1    5100 10450
 	1    0    0    -1  
@@ -1595,7 +1595,7 @@ U 1 1 5F7A6142
 P 4300 10450
 F 0 "KR24" H 4300 10683 60  0000 C CNN
 F 1 "KEYSW" H 4300 10350 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4300 10450 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 4300 10450 60  0001 C CNN
 F 3 "" H 4300 10450 60  0000 C CNN
 	1    4300 10450
 	1    0    0    -1  
@@ -1644,7 +1644,7 @@ U 1 1 5F7A615C
 P 3500 11250
 F 0 "KR33" H 3500 11483 60  0000 C CNN
 F 1 "KEYSW" H 3500 11150 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 3500 11250 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 3500 11250 60  0001 C CNN
 F 3 "" H 3500 11250 60  0000 C CNN
 	1    3500 11250
 	1    0    0    -1  
@@ -1655,7 +1655,7 @@ U 1 1 5F7A6162
 P 2700 11250
 F 0 "KR32" H 2700 11483 60  0000 C CNN
 F 1 "KEYSW" H 2700 11150 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 2700 11250 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 2700 11250 60  0001 C CNN
 F 3 "" H 2700 11250 60  0000 C CNN
 	1    2700 11250
 	1    0    0    -1  
@@ -1688,7 +1688,7 @@ U 1 1 5F7A6174
 P 3500 10450
 F 0 "KR23" H 3500 10683 60  0000 C CNN
 F 1 "KEYSW" H 3500 10350 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 3500 10450 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 3500 10450 60  0001 C CNN
 F 3 "" H 3500 10450 60  0000 C CNN
 	1    3500 10450
 	1    0    0    -1  
@@ -1699,7 +1699,7 @@ U 1 1 5F7A617A
 P 2700 10450
 F 0 "KR22" H 2700 10683 60  0000 C CNN
 F 1 "KEYSW" H 2700 10350 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 2700 10450 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 2700 10450 60  0001 C CNN
 F 3 "" H 2700 10450 60  0000 C CNN
 	1    2700 10450
 	1    0    0    -1  
@@ -1748,7 +1748,7 @@ U 1 1 5F7A6194
 P 1900 11250
 F 0 "KR31" H 1900 11483 60  0000 C CNN
 F 1 "KEYSW" H 1900 11150 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1900 11250 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1900 11250 60  0001 C CNN
 F 3 "" H 1900 11250 60  0000 C CNN
 	1    1900 11250
 	1    0    0    -1  
@@ -1759,7 +1759,7 @@ U 1 1 5F7A619A
 P 1100 11250
 F 0 "KR30" H 1100 11483 60  0000 C CNN
 F 1 "KEYSW" H 1100 11150 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1100 11250 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1100 11250 60  0001 C CNN
 F 3 "" H 1100 11250 60  0000 C CNN
 	1    1100 11250
 	1    0    0    -1  
@@ -1792,7 +1792,7 @@ U 1 1 5F7A61AC
 P 1900 10450
 F 0 "KR21" H 1900 10683 60  0000 C CNN
 F 1 "KEYSW" H 1900 10350 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1900 10450 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1900 10450 60  0001 C CNN
 F 3 "" H 1900 10450 60  0000 C CNN
 	1    1900 10450
 	1    0    0    -1  
@@ -1803,7 +1803,7 @@ U 1 1 5F7A61B2
 P 1100 10450
 F 0 "KR20" H 1100 10683 60  0000 C CNN
 F 1 "KEYSW" H 1100 10350 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1100 10450 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1100 10450 60  0001 C CNN
 F 3 "" H 1100 10450 60  0000 C CNN
 	1    1100 10450
 	1    0    0    -1  
@@ -1846,7 +1846,7 @@ U 1 1 5F7A61CD
 P 5900 9650
 F 0 "KR16" H 5900 9883 60  0000 C CNN
 F 1 "KEYSW" H 5900 9550 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5900 9650 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5900 9650 60  0001 C CNN
 F 3 "" H 5900 9650 60  0000 C CNN
 	1    5900 9650
 	1    0    0    -1  
@@ -1895,7 +1895,7 @@ U 1 1 5F7A61E7
 P 5100 9650
 F 0 "KR15" H 5100 9883 60  0000 C CNN
 F 1 "KEYSW" H 5100 9550 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5100 9650 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5100 9650 60  0001 C CNN
 F 3 "" H 5100 9650 60  0000 C CNN
 	1    5100 9650
 	1    0    0    -1  
@@ -1906,7 +1906,7 @@ U 1 1 5F7A61ED
 P 4300 9650
 F 0 "KR14" H 4300 9883 60  0000 C CNN
 F 1 "KEYSW" H 4300 9550 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4300 9650 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 4300 9650 60  0001 C CNN
 F 3 "" H 4300 9650 60  0000 C CNN
 	1    4300 9650
 	1    0    0    -1  
@@ -1939,7 +1939,7 @@ U 1 1 5F7A61FF
 P 5900 8850
 F 0 "KR06" H 5900 9083 60  0000 C CNN
 F 1 "KEYSW" H 5900 8750 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5900 8850 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5900 8850 60  0001 C CNN
 F 3 "" H 5900 8850 60  0000 C CNN
 	1    5900 8850
 	1    0    0    -1  
@@ -1950,7 +1950,7 @@ U 1 1 5F7A6205
 P 5100 8850
 F 0 "KR05" H 5100 9083 60  0000 C CNN
 F 1 "KEYSW" H 5100 8750 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5100 8850 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 5100 8850 60  0001 C CNN
 F 3 "" H 5100 8850 60  0000 C CNN
 	1    5100 8850
 	1    0    0    -1  
@@ -1999,7 +1999,7 @@ U 1 1 5F7A621F
 P 3500 9650
 F 0 "KR13" H 3500 9883 60  0000 C CNN
 F 1 "KEYSW" H 3500 9550 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 3500 9650 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 3500 9650 60  0001 C CNN
 F 3 "" H 3500 9650 60  0000 C CNN
 	1    3500 9650
 	1    0    0    -1  
@@ -2010,7 +2010,7 @@ U 1 1 5F7A6225
 P 2700 9650
 F 0 "KR12" H 2700 9883 60  0000 C CNN
 F 1 "KEYSW" H 2700 9550 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 2700 9650 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 2700 9650 60  0001 C CNN
 F 3 "" H 2700 9650 60  0000 C CNN
 	1    2700 9650
 	1    0    0    -1  
@@ -2043,7 +2043,7 @@ U 1 1 5F7A6237
 P 4300 8850
 F 0 "KR04" H 4300 9083 60  0000 C CNN
 F 1 "KEYSW" H 4300 8750 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 4300 8850 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 4300 8850 60  0001 C CNN
 F 3 "" H 4300 8850 60  0000 C CNN
 	1    4300 8850
 	1    0    0    -1  
@@ -2054,7 +2054,7 @@ U 1 1 5F7A623D
 P 3500 8850
 F 0 "KR03" H 3500 9083 60  0000 C CNN
 F 1 "KEYSW" H 3500 8750 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 3500 8850 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 3500 8850 60  0001 C CNN
 F 3 "" H 3500 8850 60  0000 C CNN
 	1    3500 8850
 	1    0    0    -1  
@@ -2103,7 +2103,7 @@ U 1 1 5F7A6257
 P 1900 9650
 F 0 "KR11" H 1900 9883 60  0000 C CNN
 F 1 "KEYSW" H 1900 9550 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1900 9650 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1900 9650 60  0001 C CNN
 F 3 "" H 1900 9650 60  0000 C CNN
 	1    1900 9650
 	1    0    0    -1  
@@ -2114,7 +2114,7 @@ U 1 1 5F7A625D
 P 1100 9650
 F 0 "KR10" H 1100 9883 60  0000 C CNN
 F 1 "KEYSW" H 1100 9550 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1100 9650 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1100 9650 60  0001 C CNN
 F 3 "" H 1100 9650 60  0000 C CNN
 	1    1100 9650
 	1    0    0    -1  
@@ -2147,7 +2147,7 @@ U 1 1 5F7A626F
 P 2700 8850
 F 0 "KR02" H 2700 9083 60  0000 C CNN
 F 1 "KEYSW" H 2700 8750 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 2700 8850 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 2700 8850 60  0001 C CNN
 F 3 "" H 2700 8850 60  0000 C CNN
 	1    2700 8850
 	1    0    0    -1  
@@ -2158,7 +2158,7 @@ U 1 1 5F7A6275
 P 1900 8850
 F 0 "KR01" H 1900 9083 60  0000 C CNN
 F 1 "KEYSW" H 1900 8750 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1900 8850 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1900 8850 60  0001 C CNN
 F 3 "" H 1900 8850 60  0000 C CNN
 	1    1900 8850
 	1    0    0    -1  
@@ -2171,7 +2171,7 @@ U 1 1 5F7A60DF
 P 1100 12050
 F 0 "KR40" H 1100 12283 60  0000 C CNN
 F 1 "KEYSW" H 1100 11950 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1100 12050 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1100 12050 60  0001 C CNN
 F 3 "" H 1100 12050 60  0000 C CNN
 	1    1100 12050
 	1    0    0    -1  
@@ -2195,7 +2195,7 @@ U 1 1 5F7A60D2
 P 1900 12050
 F 0 "KR41" H 1900 12283 60  0000 C CNN
 F 1 "KEYSW" H 1900 11950 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1900 12050 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1900 12050 60  0001 C CNN
 F 3 "" H 1900 12050 60  0000 C CNN
 	1    1900 12050
 	1    0    0    -1  
@@ -2206,7 +2206,7 @@ U 1 1 5F7A60CC
 P 2700 12050
 F 0 "KR42" H 2700 12283 60  0000 C CNN
 F 1 "KEYSW" H 2700 11950 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 2700 12050 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 2700 12050 60  0001 C CNN
 F 3 "" H 2700 12050 60  0000 C CNN
 	1    2700 12050
 	1    0    0    -1  
@@ -2239,7 +2239,7 @@ U 1 1 5F7A60BA
 P 1100 12850
 F 0 "KR50" H 1100 13083 60  0000 C CNN
 F 1 "KEYSW" H 1100 12750 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1100 12850 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1100 12850 60  0001 C CNN
 F 3 "" H 1100 12850 60  0000 C CNN
 	1    1100 12850
 	1    0    0    -1  
@@ -2250,7 +2250,7 @@ U 1 1 5F7A60B4
 P 1900 12850
 F 0 "KR51" H 1900 13083 60  0000 C CNN
 F 1 "KEYSW" H 1900 12750 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1900 12850 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 1900 12850 60  0001 C CNN
 F 3 "" H 1900 12850 60  0000 C CNN
 	1    1900 12850
 	1    0    0    -1  
@@ -2297,7 +2297,7 @@ U 1 1 5F7A609A
 P 3500 12050
 F 0 "KR43" H 3500 12283 60  0000 C CNN
 F 1 "KEYSW" H 3500 11950 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 3500 12050 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 3500 12050 60  0001 C CNN
 F 3 "" H 3500 12050 60  0000 C CNN
 	1    3500 12050
 	1    0    0    -1  
@@ -2319,7 +2319,7 @@ U 1 1 5F7A608E
 P 2700 12850
 F 0 "KR52" H 2700 13083 60  0000 C CNN
 F 1 "KEYSW" H 2700 12750 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 2700 12850 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX--window" H 2700 12850 60  0001 C CNN
 F 3 "" H 2700 12850 60  0000 C CNN
 	1    2700 12850
 	1    0    0    -1  

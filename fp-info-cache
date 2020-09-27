@@ -1,4 +1,4 @@
-19064255319716360
+19069058663433360
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -55986,6 +55986,13 @@ breakaway-mousebites
 0
 0
 Keebio-Parts
+breakaway-mousebites-tangent
+
+
+0
+0
+0
+Keebio-Parts
 solder_jumper
 
 
@@ -83763,6 +83770,20 @@ tmk_logo
 0
 keyswitches
 Kailh_socket_MX
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+keyswitches
+Kailh_socket_MX--space
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+keyswitches
+Kailh_socket_MX--window
 MX-style keyswitch with Kailh socket mount
 MX,cherry,gateron,kailh,pg1511,socket
 0
