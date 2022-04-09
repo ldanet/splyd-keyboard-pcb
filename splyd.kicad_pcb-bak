@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 63)
-    (tracks 902)
+    (tracks 901)
     (zones 0)
     (modules 272)
     (nets 189)
@@ -1170,7 +1170,7 @@
     (fp_text reference DRTR_34 (at 0 -4.5 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 180) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2 -3.8) (end -2 3.8) (layer B.CrtYd) (width 0.05))
@@ -1210,7 +1210,7 @@
     (fp_text reference DRTL_30 (at 0 -4.5 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 180) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2 -3.8) (end -2 3.8) (layer B.CrtYd) (width 0.05))
@@ -1250,7 +1250,7 @@
     (fp_text reference DRTC_31 (at 0 -4.5 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 180) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2 -3.8) (end -2 3.8) (layer B.CrtYd) (width 0.05))
@@ -1290,7 +1290,7 @@
     (fp_text reference DRBR_33 (at 0 -4.5 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 180) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2 -3.8) (end -2 3.8) (layer B.CrtYd) (width 0.05))
@@ -1330,7 +1330,7 @@
     (fp_text reference DRBL_29 (at 0 -4.5 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 180) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user 1 (at -2 2.5) (layer B.SilkS) hide
@@ -1370,7 +1370,7 @@
     (fp_text reference DRBC_32 (at 0 -4.5 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 180) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2 -3.8) (end -2 3.8) (layer B.CrtYd) (width 0.05))
@@ -1410,7 +1410,7 @@
     (fp_text reference DLTR_30 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2 -3.8) (end -2 3.8) (layer B.CrtYd) (width 0.05))
@@ -1450,7 +1450,7 @@
     (fp_text reference DLTL_34 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2 -3.8) (end -2 3.8) (layer B.CrtYd) (width 0.05))
@@ -1490,7 +1490,7 @@
     (fp_text reference DLTC_31 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2 -3.8) (end -2 3.8) (layer B.CrtYd) (width 0.05))
@@ -1530,7 +1530,7 @@
     (fp_text reference DLBR_29 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2 -3.8) (end -2 3.8) (layer B.CrtYd) (width 0.05))
@@ -1570,7 +1570,7 @@
     (fp_text reference DLBL_33 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2 -3.8) (end -2 3.8) (layer B.CrtYd) (width 0.05))
@@ -1610,7 +1610,7 @@
     (fp_text reference DLBC_32 (at 0 -4.5 260) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 260) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 260) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2 -3.8) (end -2 3.8) (layer B.CrtYd) (width 0.05))
@@ -1722,7 +1722,7 @@
     (fp_text reference DR42_26 (at 0 -4.5 280) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 280) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 280) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -1778,7 +1778,7 @@
     (fp_text reference DR41_25 (at 0 -4.5 280) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 280) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 280) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -1834,7 +1834,7 @@
     (fp_text reference DR40_22 (at 0 -4.5 280) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 280) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 280) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -1890,7 +1890,7 @@
     (fp_text reference DR33_28 (at 0 -4.5 280) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 280) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 280) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -1946,7 +1946,7 @@
     (fp_text reference DR32_27 (at 0 -4.5 280) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 280) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 280) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2002,7 +2002,7 @@
     (fp_text reference DR31_24 (at 0 -4.5 280) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 280) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 280) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2058,7 +2058,7 @@
     (fp_text reference DR30_23 (at 0 -4.5 280) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 280) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 280) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2114,7 +2114,7 @@
     (fp_text reference DR26_3 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2170,7 +2170,7 @@
     (fp_text reference DR25_4 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2226,7 +2226,7 @@
     (fp_text reference DR24_9 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2282,7 +2282,7 @@
     (fp_text reference DR23_10 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2338,7 +2338,7 @@
     (fp_text reference DR22_15 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2394,7 +2394,7 @@
     (fp_text reference DR21_16 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2450,7 +2450,7 @@
     (fp_text reference DR20_21 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2506,7 +2506,7 @@
     (fp_text reference DR16_2 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2562,7 +2562,7 @@
     (fp_text reference DR15_5 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2618,7 +2618,7 @@
     (fp_text reference DR14_8 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2674,7 +2674,7 @@
     (fp_text reference DR13_11 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2730,7 +2730,7 @@
     (fp_text reference DR12_14 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2786,7 +2786,7 @@
     (fp_text reference DR11_17 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2842,7 +2842,7 @@
     (fp_text reference DR10_20 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2898,7 +2898,7 @@
     (fp_text reference DR06_1 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -2954,7 +2954,7 @@
     (fp_text reference DR05_6 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3010,7 +3010,7 @@
     (fp_text reference DR02_13 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3066,7 +3066,7 @@
     (fp_text reference DR04_7 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3122,7 +3122,7 @@
     (fp_text reference DR03_12 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3178,7 +3178,7 @@
     (fp_text reference DR01_18 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3234,7 +3234,7 @@
     (fp_text reference DR00_19 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3290,7 +3290,7 @@
     (fp_text reference DL46_22 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3346,7 +3346,7 @@
     (fp_text reference DL45_25 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3402,7 +3402,7 @@
     (fp_text reference DL44_26 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3458,7 +3458,7 @@
     (fp_text reference DL36_23 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3514,7 +3514,7 @@
     (fp_text reference DL35_24 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3570,7 +3570,7 @@
     (fp_text reference DL34_27 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3626,7 +3626,7 @@
     (fp_text reference DL33_28 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3682,7 +3682,7 @@
     (fp_text reference DL26_21 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3738,7 +3738,7 @@
     (fp_text reference DL25_16 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3794,7 +3794,7 @@
     (fp_text reference DL24_15 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3850,7 +3850,7 @@
     (fp_text reference DL23_10 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3906,7 +3906,7 @@
     (fp_text reference DL22_9 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -3962,7 +3962,7 @@
     (fp_text reference DL21_4 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4018,7 +4018,7 @@
     (fp_text reference DL20_3 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4074,7 +4074,7 @@
     (fp_text reference DL16_20 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4130,7 +4130,7 @@
     (fp_text reference DL15_17 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4186,7 +4186,7 @@
     (fp_text reference DL14_14 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4242,7 +4242,7 @@
     (fp_text reference DL13_11 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4298,7 +4298,7 @@
     (fp_text reference DL12_8 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4354,7 +4354,7 @@
     (fp_text reference DL11_5 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4410,7 +4410,7 @@
     (fp_text reference DL10_2 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4466,7 +4466,7 @@
     (fp_text reference DL06_19 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4522,7 +4522,7 @@
     (fp_text reference DL05_18 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4578,7 +4578,7 @@
     (fp_text reference DL04_13 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4634,7 +4634,7 @@
     (fp_text reference DL03_12 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4690,7 +4690,7 @@
     (fp_text reference DL02_7 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4746,7 +4746,7 @@
     (fp_text reference DL01_6 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -4802,7 +4802,7 @@
     (fp_text reference DL00_1 (at 0 -4.5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SK6812MINI-E (at 0 4.5 270) (layer F.Fab)
+    (fp_text value SK6812MINI (at 0 4.5 270) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.5 -0.794452) (end 1.5 0.794452) (layer Edge.Cuts) (width 0.1))
@@ -13991,7 +13991,6 @@
   (segment (start 255.513227 133.320665) (end 255.597446 133.798296) (width 0.25) (layer B.Cu) (net 63) (tstamp 6251959A))
   (segment (start 202.987561 164.546541) (end 202.475313 165.278106) (width 0.25) (layer B.Cu) (net 64) (tstamp 62519384))
   (segment (start 202.539461 162.005245) (end 202.987561 164.546541) (width 0.25) (layer B.Cu) (net 64) (tstamp 62519357))
-  (segment (start 220.206766 169.298145) (end 221.240816 169.115817) (width 0.25) (layer F.Cu) (net 65) (tstamp 62519597))
   (segment (start 259.360025 163.168124) (end 261.16372 160.592182) (width 0.25) (layer F.Cu) (net 65) (tstamp 625194E6))
   (segment (start 203.829769 172.959607) (end 259.360025 163.168123) (width 0.25) (layer F.Cu) (net 65) (tstamp 625194E9))
   (segment (start 221.748148 161.238544) (end 221.235901 161.970109) (width 0.25) (layer B.Cu) (net 66) (tstamp 6251950A))
