@@ -1,4 +1,4 @@
-19069058663433360
+19077153010887360
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -55846,6 +55846,13 @@ TRRS-PJ-320A-no-Fmask
 8
 4
 Keebio-Parts
+TRRS-PJ-320A_copy
+
+
+0
+4
+4
+Keebio-Parts
 TRRS-PJ-320D
 
 
@@ -55887,6 +55894,13 @@ TRRS_Jumper
 0
 6
 6
+Keebio-Parts
+TRS-PJ-320B
+
+
+0
+3
+3
 Keebio-Parts
 Teensy_2.0
 
@@ -57931,6 +57945,13 @@ mounting hole 8.4mm m8
 0
 9
 1
+Mounting_Wuerth
+MountingHole_3.2mm_M3_edge_distance
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
 Mounting_Wuerth
 Mounting_Wuerth_WA-SMSE-ExternalM3_H5mm_9771050360
 Mounting Hardware, external M3, height 5, Wuerth electronics 9771050360 (https://katalog.we-online.com/em/datasheet/9771050360.pdf), generated with kicad-footprint-generator
@@ -83593,6 +83614,20 @@ SMT, 1608, 0603
 0
 2
 2
+keyboard_parts
+SK6812MINIE-simple
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+keyboard_parts
+SK6812MINIE-simple_no-hole
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
 keyboard_parts
 SLP3-200-100-F
 
